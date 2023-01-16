@@ -86,20 +86,20 @@ const Home: NextPage = () => {
               Website:{" "}
               <Link
                 className="text-blue-600 hover:underline hover:text-blue-800"
-                href="https://niksbirzgalis.id.lv"
+                href="https://www.niksbirzgalis.com"
                 target="_blank"
               >
-                https://niksbirzgalis.id.lv
+                https://www.niksbirzgalis.com
               </Link>
             </li>
             <li>
               LinkedIn:{" "}
               <Link
                 className="text-blue-600 hover:underline hover:text-blue-800"
-                href="https://www.linkedin.com/in/birzgalisn/"
+                href="https://www.linkedin.com/in/birzgalisn"
                 target="_blank"
               >
-                https://www.linkedin.com/in/birzgalisn/
+                https://www.linkedin.com/in/birzgalisn
               </Link>
             </li>
           </ul>
