@@ -63,7 +63,7 @@ const Home: NextPage = () => {
             />
             <Card
               title="Find the best and most reviewed films - _CINEMA"
-              demo="https://www-birzgalisn.vercel.app"
+              demo="https://cinema.niksbirzgalis.com"
               repo="https://github.com/birzgalisn/www"
               gradient="from-[#6EE7B7] via-[#3B82F6] to-[#9333EA]"
             />
